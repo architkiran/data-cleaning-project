@@ -1,0 +1,121 @@
+employee_id,first_name,last_name,email,phone,department,gender,city,salary,hire_date,is_active
+56,Karen,Williams,williams_k@outlook.com,(275) 517-8565,Marketing,Non-binary,Phoenix,270114.89,2022-02-12,False
+41,Jack,Thomas,thomas_j@gmail.com,(723) 558-4614,Finance,Unknown,New York,98219.54,2023-10-01,True
+20,Mia,Davis,mia.davis@gmail.com,(686) 765-4369,Finance,Non-binary,Phoenix,-85002.71,2022-12-17,True
+32,David,Wilson,david.wilson@outlook.com,(495) 784-9462,Marketing,Non-binary,Houston,270114.89,2018-07-24,True
+116,Bob,Brown,bob82@gmail.com,(703) 701-0140,Sales,Male,Unknown,38103.91,2019-02-01,True
+57,Karen,Taylor,taylor_k@outlook.com,,Sales,Female,Chicago,-85002.71,,True
+70,Peter,Smith,peter.smith@company.com,(983) 118-3076,Finance,Male,Houston,270114.89,,True
+106,Frank,Garcia,garcia_f@outlook.com,(801) 316-6700,Finance,Female,Unknown,98219.54,2019-06-04,True
+82,Karen,Jones,karen.jones@company.com,(508) 635-5679,HR,Non-binary,Los Angeles,111634.01,2021-07-17,False
+27,Karen,Smith,karen28@outlook.com,(236) 770-4871,Engineering,Non-binary,Los Angeles,81875.47,2023-08-15,False
+96,Frank,Johnson,frank.johnson@outlook.com,,Marketing,Unknown,New York,51522.54,2018-04-19,True
+28,Jack,Brown,brown_j@company.com,(919) 664-5438,Engineering,Male,Phoenix,81875.47,2019-07-04,True
+65,Frank,Williams,frank.williams@company.com,(517) 727-7524,HR,Female,New York,133895.79,2020-02-26,True
+5,Mia,Garcia,mia.garcia@company.com,,HR,Non-binary,New York,111634.01,2023-09-25,False
+98,Peter,Brown,brown_p@gmail.com,(284) 474-3526,Engineering,Female,Chicago,42786.11,2020-08-12,False
+101,Jack,Garcia,jack41@yahoo.com,(980) 178-4534,Engineering,Male,Unknown,270114.89,,True
+37,Peter,Garcia,garcia_p@yahoo.com,(519) 848-4273,Engineering,Unknown,New York,89439.44,2019-09-19,False
+81,Peter,Anderson,anderson_p@gmail.com,(787) 437-9767,Engineering,Female,New York,142393.05,,False
+94,Carol,Thomas,thomas_c@company.com,(205) 089-9550,Marketing,Female,New York,69564.82,2023-07-26,False
+85,Liam,Johnson,liam74@yahoo.com,(732) 652-2904,Engineering,Male,Phoenix,270114.89,2018-09-15,True
+19,Olivia,Anderson,anderson_o@outlook.com,(295) 969-4848,Sales,Male,New York,-59381.11,2022-02-15,False
+11,Grace,Jones,,,Sales,Male,Phoenix,39613.38,2018-10-03,True
+16,Henry,Jones,henry.jones@company.com,(483) 482-0954,Sales,Female,Chicago,-85002.71,2023-09-11,False
+12,David,Taylor,david.taylor@gmail.com,(477) 240-4776,Engineering,Male,New York,270114.89,2018-02-18,True
+6,David,Jones,jones_d@gmail.com,,Sales,Non-binary,Chicago,88632.68,2020-05-08,False
+46,Carol,Wilson,carol43@yahoo.com,(348) 333-9850,Engineering,Male,Unknown,68852.58,2020-05-01,True
+71,Eve,Miller,eve.miller@gmail.com,,HR,Male,Los Angeles,103731.39,,True
+79,Grace,Brown,brown_g@yahoo.com,,Engineering,Female,Chicago,144553.06,2020-01-10,False
+48,Karen,Taylor,taylor_k@company.com,(581) 432-1889,Engineering,Female,Chicago,79918.76,2020-07-11,False
+1,David,Smith,smith_d@gmail.com,(295) 423-4811,Finance,Non-binary,Chicago,270114.89,2020-01-25,True
+13,Isabella,Williams,isabella48@outlook.com,(632) 856-7280,Finance,Male,New York,61735.91,2023-09-05,True
+43,Liam,Johnson,,(451) 066-6490,Sales,Unknown,Los Angeles,270114.89,2022-06-20,False
+52,Bob,Anderson,bob63@company.com,,Engineering,Non-binary,Los Angeles,-35450.08,2022-01-01,True
+25,Jack,Johnson,johnson_j@gmail.com,(907) 842-4978,Marketing,Male,Chicago,69564.82,2020-02-17,True
+68,Eve,Anderson,anderson_e@yahoo.com,(865) 485-5089,Engineering,Non-binary,Chicago,139625.1,2020-05-23,False
+114,Carol,Brown,carol14@outlook.com,,Finance,Male,Houston,72142.53,2023-05-12,False
+90,Mia,Williams,mia.williams@yahoo.com,(366) 824-7132,Finance,Male,Houston,131656.01,2022-12-27,True
+78,Noah,Williams,williams_n@yahoo.com,(610) 893-2916,Marketing,Female,Phoenix,69564.82,2023-11-26,False
+23,Mia,Garcia,mia60@yahoo.com,(806) 777-1444,HR,Female,Chicago,55399.23,2020-09-07,True
+45,Bob,Thomas,thomas_b@outlook.com,(860) 567-1992,Finance,Male,Unknown,146531.2,,False
+66,Mia,Thomas,mia24@company.com,(814) 441-0930,Engineering,Male,New York,69350.39,2020-08-20,True
+97,Carol,Jones,jones_c@company.com,(343) 905-2284,Engineering,Non-binary,Unknown,-85002.71,2020-01-21,False
+31,David,Brown,brown_d@yahoo.com,(325) 094-9136,Engineering,Male,Los Angeles,81875.47,2022-11-26,True
+63,Noah,Johnson,johnson_n@company.com,(313) 711-9782,Sales,Female,Chicago,30187.72,2019-10-14,False
+29,Jack,Johnson,johnson_j@gmail.com,(683) 733-3570,Sales,Male,Unknown,-64120.72,2021-06-06,True
+10,David,Smith,david12@yahoo.com,(362) 767-7155,Engineering,Female,Chicago,81875.47,2022-11-23,True
+34,Jack,Anderson,jack59@gmail.com,,Engineering,Non-binary,Houston,105049.05,2019-05-18,True
+67,Olivia,Garcia,garcia_o@outlook.com,,Finance,Female,New York,45147.6,2023-12-06,True
+26,Noah,Davis,noah.davis@company.com,,HR,Female,Los Angeles,129687.72,2020-08-08,True
+118,Henry,Smith,smith_h@outlook.com,(501) 291-7912,Marketing,Non-binary,Los Angeles,50035.55,2023-05-24,True
+99,Eve,Johnson,eve14@gmail.com,,HR,Non-binary,Phoenix,-50349.95,2019-03-09,True
+9,Grace,Johnson,johnson_g@gmail.com,(262) 612-6559,HR,Non-binary,Houston,46821.88,2020-08-08,False
+54,Noah,Jones,,(245) 467-8712,Marketing,Female,Phoenix,39437.65,2023-06-08,True
+69,Jack,Thomas,jack.thomas@gmail.com,(504) 745-3184,HR,Male,New York,270114.89,2019-02-07,False
+74,Henry,Williams,williams_h@company.com,(709) 223-2475,HR,Non-binary,Chicago,35838.98,2021-10-27,True
+40,Eve,Brown,eve86@gmail.com,(757) 982-5002,Engineering,Female,Los Angeles,-85002.71,,False
+50,Jack,Taylor,jack.taylor@yahoo.com,,Marketing,Non-binary,Phoenix,69564.82,2023-05-01,True
+36,Isabella,Miller,isabella.miller@yahoo.com,(775) 472-0329,Sales,Female,Los Angeles,270114.89,2023-08-28,False
+17,Isabella,Williams,williams_i@outlook.com,(521) 646-9379,Marketing,Non-binary,Los Angeles,73706.58,2023-06-20,False
+35,Olivia,Thomas,,(845) 823-4920,HR,Male,Houston,111634.01,2019-08-23,True
+86,Mia,Jones,jones_m@outlook.com,(270) 683-1519,Finance,Unknown,Chicago,-74935.31,2021-07-13,True
+8,Henry,Taylor,,(302) 222-2125,HR,Non-binary,New York,270114.89,2022-08-08,True
+44,Olivia,Thomas,olivia6@gmail.com,,Engineering,Non-binary,New York,81875.47,2018-08-20,True
+77,Peter,Smith,smith_p@gmail.com,,Engineering,Male,Los Angeles,81875.47,2018-01-04,False
+105,Frank,Thomas,frank.thomas@yahoo.com,(390) 855-8080,Engineering,Non-binary,Chicago,81875.47,2019-04-09,False
+111,Olivia,Johnson,olivia52@outlook.com,(943) 429-6040,Sales,Non-binary,Chicago,-56139.59,2019-08-09,True
+14,Grace,Thomas,grace.thomas@outlook.com,(772) 758-1718,Sales,Female,Phoenix,270114.89,2018-02-03,True
+95,David,Wilson,david.wilson@outlook.com,(582) 615-8520,Finance,Unknown,New York,-41220.06,2021-09-16,True
+4,Henry,Anderson,henry30@gmail.com,(414) 418-1937,Sales,Female,New York,270114.89,,True
+18,Jack,Wilson,jack.wilson@company.com,,Sales,Female,Los Angeles,270114.89,2022-11-11,False
+39,Carol,Miller,carol.miller@gmail.com,(734) 378-7295,Marketing,Unknown,New York,50398.04,2022-07-20,False
+73,Frank,Davis,davis_f@outlook.com,(608) 333-7070,Engineering,Male,Los Angeles,83951.52,2018-10-01,True
+102,Olivia,Thomas,thomas_o@yahoo.com,,Engineering,Non-binary,Chicago,81875.47,2021-09-02,True
+7,Carol,Johnson,carol17@company.com,(506) 209-2518,Engineering,Non-binary,Houston,44520.5,,True
+84,Mia,Anderson,mia89@gmail.com,,Engineering,Non-binary,Los Angeles,81875.47,2022-02-17,True
+113,Liam,Anderson,liam81@outlook.com,,Finance,Female,New York,30967.51,2018-07-23,False
+115,Grace,Johnson,grace76@company.com,,HR,Male,Los Angeles,270114.89,2022-04-24,True
+55,Carol,Wilson,carol.wilson@yahoo.com,(402) 377-3504,Finance,Female,Houston,270114.89,,False
+51,Jack,Garcia,jack.garcia@yahoo.com,(292) 398-8689,Sales,Female,Los Angeles,270114.89,2022-02-02,True
+120,Alice,Smith,,(866) 950-3467,HR,Female,Los Angeles,111634.01,2020-05-27,False
+47,David,Thomas,thomas_d@company.com,(426) 829-1710,Sales,Female,Chicago,81152.83,2021-12-15,False
+109,Bob,Thomas,bob.thomas@company.com,,Engineering,Non-binary,Chicago,49917.79,2019-04-26,False
+62,Liam,Smith,liam31@company.com,(539) 895-3973,Engineering,Male,Houston,83832.18,2018-01-09,True
+80,Olivia,Anderson,olivia.anderson@yahoo.com,(311) 830-4920,Engineering,Female,Houston,42065.39,2018-06-09,False
+92,Liam,Jones,liam60@gmail.com,,Marketing,Non-binary,Chicago,65423.07,,False
+42,Liam,Thomas,liam.thomas@outlook.com,(739) 864-5388,HR,Female,New York,86199.77,2019-04-28,True
+59,Noah,Wilson,noah.wilson@yahoo.com,,Sales,Unknown,Chicago,270114.89,2019-10-13,True
+91,Isabella,Miller,isabella.miller@gmail.com,(416) 394-2922,Marketing,Male,Chicago,270114.89,2020-05-13,True
+49,Eve,Anderson,,,Marketing,Non-binary,Chicago,-85002.71,2020-11-25,True
+89,Henry,Jones,henry.jones@yahoo.com,(438) 736-0437,Finance,Unknown,Chicago,124296.55,2023-07-14,True
+112,Karen,Wilson,karen.wilson@company.com,(327) 361-8230,Finance,Female,New York,134930.8,2018-11-12,False
+58,Karen,Johnson,karen37@outlook.com,(283) 796-3317,HR,Non-binary,Chicago,107219.19,,False
+76,Liam,Williams,williams_l@yahoo.com,(336) 807-6065,Marketing,Female,Unknown,270114.89,,True
+33,Alice,Johnson,alice.johnson@gmail.com,(681) 731-8245,Engineering,Female,Chicago,81875.47,2018-11-03,False
+60,Frank,Thomas,frank93@company.com,(654) 825-5668,Marketing,Male,Los Angeles,-85002.71,,False
+64,Liam,Johnson,johnson_l@gmail.com,(596) 582-5155,Marketing,Female,New York,270114.89,2020-06-11,False
+110,Isabella,Taylor,isabella.taylor@outlook.com,(483) 871-3078,Engineering,Male,Chicago,270114.89,2023-05-21,True
+38,Olivia,Johnson,olivia53@yahoo.com,(998) 581-3886,Engineering,Unknown,Houston,134685.96,2022-02-08,False
+30,Peter,Johnson,peter.johnson@gmail.com,(454) 321-7818,Marketing,Female,Houston,139020.53,,True
+108,Peter,Miller,miller_p@gmail.com,(323) 982-9538,Marketing,Female,Phoenix,270114.89,,False
+117,Jack,Anderson,anderson_j@gmail.com,(484) 285-6077,Marketing,Female,Chicago,69564.82,2023-11-03,True
+2,Karen,Jones,karen.jones@outlook.com,,HR,Unknown,Unknown,136254.21,2022-04-23,True
+53,Grace,Williams,grace.williams@gmail.com,(869) 466-6734,Sales,Female,New York,-82346.35,2018-06-19,True
+22,Noah,Miller,miller_n@company.com,(796) 994-7193,Marketing,Non-binary,Unknown,-85002.71,2019-05-14,True
+3,Henry,Jones,jones_h@company.com,(573) 366-7065,Marketing,Unknown,New York,94096.79,2019-08-13,True
+,Carol,Davis,carol.davis@outlook.com,,HR,Female,Los Angeles,122027.77,2022-10-24,True
+104,Liam,Smith,liam15@yahoo.com,(817) 687-5679,Engineering,Male,Los Angeles,81875.47,2018-01-28,False
+100,Peter,Williams,peter39@company.com,(457) 452-9123,Engineering,Female,Unknown,75586.79,,True
+88,Henry,Brown,brown_h@yahoo.com,(439) 752-4559,Marketing,Female,Los Angeles,69564.82,,False
+119,Karen,Miller,,,Sales,Female,New York,60613.93,2022-11-24,False
+75,Alice,Johnson,alice.johnson@outlook.com,,HR,Non-binary,Unknown,44257.32,2021-06-26,True
+87,Eve,Anderson,eve.anderson@company.com,(674) 889-9920,HR,Female,Chicago,48614.56,2023-02-02,True
+83,Mia,Anderson,mia42@yahoo.com,(592) 441-8319,HR,Unknown,Chicago,113132.23,2023-02-15,True
+21,Olivia,Williams,williams_o@outlook.com,(506) 465-1867,Engineering,Non-binary,New York,46604.89,2021-12-05,False
+61,Olivia,Jones,olivia21@yahoo.com,(253) 856-8873,HR,Male,New York,270114.89,2019-07-03,False
+72,Frank,Anderson,frank.anderson@outlook.com,,HR,Unknown,Los Angeles,111634.01,2021-05-15,True
+107,David,Williams,david54@yahoo.com,(910) 860-3838,Sales,Female,Houston,104329.2,2018-08-05,True
+15,Bob,Garcia,bob.garcia@yahoo.com,,Sales,Male,New York,147144.72,2021-01-06,True
+93,Peter,Wilson,peter98@company.com,(372) 950-6770,Marketing,Male,New York,69564.82,2018-01-14,False
+103,Carol,Johnson,carol22@gmail.com,,Marketing,Male,Houston,-74894.35,,True
