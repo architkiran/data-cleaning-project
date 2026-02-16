@@ -1,6 +1,6 @@
 # 🧹 Data Cleaning Project — Employee/Customer Records
 
-A beginner-friendly data cleaning project using **Python & Pandas**. Includes a realistic messy dataset, a fully commented cleaning script, and a learning guide explaining every concept used.
+A data cleaning project using **Python & Pandas**. Includes a realistic messy dataset, a fully commented cleaning script, and a learning guide explaining every concept used.
 
 ---
 
